@@ -2,10 +2,14 @@
 
 ****Chimie****
 
+liens utiles : http://www.elementschimiques.fr/?fr/elements/z/24
+
+
+
 OBJECTIFS: Creér le tableau périodique
 
 
-On peux procèder de deux manières:
+On peut procèder de deux manières:
 
 
 
